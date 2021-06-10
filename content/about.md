@@ -7,7 +7,7 @@ menu:
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app).
 
-## How to use?
+## How to stooge?
 
 ### Managing content with [Forestry](https://forestry.io)
 
